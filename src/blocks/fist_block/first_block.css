@@ -1,0 +1,151 @@
+.page {
+    font-family: 'AlayaRozaDemo';
+    background-color: #fdf5e6;
+}
+
+.first_block {
+    display: flex;
+    margin-top: 5%;
+    margin: auto;
+    max-width: 100%;
+    /* opacity: 0; */
+    /* animation: ani 3.5s forwards; */
+}
+
+@keyframes ani {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.9;
+    }
+}
+
+.title_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+}
+
+
+
+.title {
+    font-size: 44px;
+    /* animation: ani 5.5s forwards; */
+}
+
+.description {
+    font-family: 'larisa';
+    font-size: 32px;
+    text-align: center;
+    max-width: 800px;
+    margin: 0;
+    /* animation: ani 6.5s forwards; */
+}
+
+
+.days-of-week-container,
+.calendar-container {
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(7, 55px);
+}
+
+.calendar-container div:first-child {
+    grid-column: 2;
+}
+
+.number {
+    font-family: 'saveTheDate';
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+
+.heart {
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 215px;
+    margin-top: 10px;
+    width: 70px;
+    animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+
+@keyframes zoom-in-zoom-out {
+    0% {
+        transform: scale(1, 1);
+    }
+
+    50% {
+        transform: scale(1.5, 1.5);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}
+
+.circles {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.color_circle1 {
+    width: 75px;
+    height: 75px;
+    background: #FAF0EB;
+    border-radius: 50%;
+}
+
+.color_circle2 {
+    width: 75px;
+    height: 75px;
+    background: #F0E1DC;
+    border-radius: 50%;
+}
+
+.color_circle3 {
+    width: 75px;
+    height: 75px;
+    background: #E6D2CD;
+    border-radius: 50%;
+}
+
+.color_circle4 {
+    width: 75px;
+    height: 75px;
+    background: #DCBEB9;
+    border-radius: 50%;
+}
+
+.color_circle5 {
+    width: 75px;
+    height: 75px;
+    background: #C8C8D2;
+    border-radius: 50%;
+}
+
+.color_circle6 {
+    width: 75px;
+    height: 75px;
+    background: #9BA0AA;
+    border-radius: 50%;
+}
+
+.color_circle7 {
+    width: 75px;
+    height: 75px;
+    background: #0A1E28;
+    border-radius: 50%;
+}
+
+.circles_description {
+    font-size: 24px;
+    text-align: center;
+    animation: ani 6.5s forwards;
+}

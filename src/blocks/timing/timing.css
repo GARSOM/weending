@@ -1,0 +1,54 @@
+.timing {
+    display: flex;
+    font-size: 40px;
+}
+
+.description_timing {
+    text-align: center;
+    animation: ani 6.5s forwards;
+}
+
+.svg_timing {
+    margin: auto;
+    max-width: 200px;
+    animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+
+@keyframes zoom-in-zoom-out {
+    0% {
+        transform: scale(1, 1);
+    }
+
+    50% {
+        transform: scale(1.3, 1.3);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}
+.svg_div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.svg_timing_gift {
+    margin: auto;
+    max-width: 150px;
+    animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+
+@keyframes zoom-in-zoom-out {
+    0% {
+        transform: scale(1, 1);
+    }
+
+    50% {
+        transform: scale(1.2, 1.2);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}

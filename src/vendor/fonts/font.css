@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'AlayaRozaDemo';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(AlayaRozaDemo.woff) format("woff2");
+}
+
+@font-face {
+    font-family: 'saveTheDate';
+    src: url(SavetheDate-ScriptBold.woff) format("woff2");
+}
+@font-face {
+    font-family: 'larisa';
+    src: url(Larisa_script.ttf) format("woff2");
+}
