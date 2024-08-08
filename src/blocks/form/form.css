@@ -164,12 +164,13 @@ li {
 
 
 .popup__submit {
+    all: unset;
     padding: 15px;
     cursor: pointer;
+    border: 1px solid black;
     border-radius: 25px 25px 25px 25px;
-
-    font-size: 22px;
-    background-color: #ffffff;
+    font-size: 4vmin;
+    font-family: 'Montserrat-Regular';
 }
 
 .popup__submit:hover {
