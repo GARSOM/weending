@@ -38,8 +38,6 @@ export function Form() {
         const data = `${username},    ${checked},     ${checked2},     ${alerg} `
         // const data = [username, checked, checked2, alerg]
         telegram({ data })
-    }
-    function handleClick() {
         setButtonText('Спасибо!');
     }
 
@@ -124,7 +122,7 @@ export function Form() {
                     value={alerg}
                     onChange={handlealergsInput}
                 />
-                <button id="btn" className='popup__submit' onClick={handleClick}>
+                <button id="btn" className='popup__submit'>
                     {buttonText}
                 </button>
 
