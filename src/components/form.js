@@ -117,7 +117,7 @@ export function Form() {
                 </p>
                 <input
                     className="input_name"
-                    placeholder="Катюжанский Николай"
+                    placeholder="..."
                     id="description"
                     name="description"
                     type="alerg"

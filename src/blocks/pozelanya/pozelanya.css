@@ -35,7 +35,7 @@
 }
 
 .descripstion_pozelanya {
-    font-size: 3.8vmin;
+    font-size: 4vmin;
     margin: 0;
 }
 
@@ -54,7 +54,7 @@
 
 .descripstion_pozelanya_button {
     all: unset;
-    padding: 3%;
+    padding: 15px;
     cursor: pointer;
     border: 1px solid black;
     border-radius: 25px 25px 25px 25px;

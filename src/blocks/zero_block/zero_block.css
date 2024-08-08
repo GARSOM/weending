@@ -5,7 +5,7 @@
     max-width: 1000px;
     border-radius: 10%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 30px;
     background-size: cover;
     background-image: url(../../vendor/crisp-white-sheets-invite-rest-soft-folds-creating-serene-atmosphere.jpg);
     max-width: 40%;
@@ -23,12 +23,12 @@
 
 .title {
     font-family: 'GoodVibesPro';
-    font-size: 10vmin;
+    font-size: 15vmin;
 }
 
 .description {
     margin: 0;
-    font-size: 5vmin;
+    font-size: 7vmin;
 }
 
 .date {
@@ -38,6 +38,7 @@
 
 
 .number {
+    padding-left: 25px;
     font-size: 10vmin;
     text-align: center;
     margin: 0;
@@ -53,12 +54,11 @@
     position: absolute;
     bottom: -60px;
     max-width: 250px;
-
 }
 
 @media screen and (max-width:1500px) {
     .svg_saveTheDate {
-        max-width: 150px;
+        max-width: 130px;
     }
 }
 

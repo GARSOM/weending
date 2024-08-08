@@ -9,7 +9,7 @@
     padding-left: 10%;
     padding-right: 10%;
     font-family: 'GoodVibesPro';
-    font-size: 24px;
+    font-size: 4vmin;
     text-align: center;
     margin: 0;
 }
@@ -78,7 +78,7 @@
 .circles_description {
     max-width: 80%;
     font-family: 'AngstThin';
-    font-size: 10px;
+    font-size: 2vmin;
     text-align: center;
     color: #998675;
     margin: 0;

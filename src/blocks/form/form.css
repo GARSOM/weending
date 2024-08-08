@@ -164,11 +164,10 @@ li {
 
 
 .popup__submit {
-    padding: 0;
+    padding: 15px;
     cursor: pointer;
     border-radius: 25px 25px 25px 25px;
-    width: 200px;
-    height: 52px;
+
     font-size: 22px;
     background-color: #ffffff;
 }
