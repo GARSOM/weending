@@ -103,17 +103,17 @@ function App() {
           <div className='number_calen'>13</div>
         </div>
       </div>
-      <div class="title_block  title--center">Программа дня</div>
+      <div className="title_block  title--center">Программа дня</div>
       <Timeline />
-      <div class="title_block  title--center">Локация</div>
+      <div className="title_block  title--center">Локация</div>
       <Location />
-      <div class="title_block  title--center">Дресс код</div>
+      <div className="title_block  title--center">Дресс код</div>
       <DressCod />
-      <div class="title_block  title--center">Анкета гостя</div>
+      <div className="title_block  title--center">Анкета гостя</div>
       <Form />
-      <div class="title_block  title--center">Наши пожелания</div>
+      <div className="title_block  title--center">Наши пожелания</div>
       <Pozelanya />
-      <div class="title_block  title--center">Контакты</div>
+      <div className="title_block  title--center">Контакты</div>
       <Organiz />
       <div className='after'>
         <p className='pozelanya_flowers_p black'>*ВСКОРЕ ЗДЕСЬ ПОЯВИТСЯ ССЫЛКА НА ФОТО И ВИДЕО ОТЧЕТ С НАШЕЙ СВАДЬБЫ

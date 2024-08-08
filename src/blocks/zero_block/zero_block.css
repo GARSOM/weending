@@ -56,7 +56,7 @@
 
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:1500px) {
     .svg_saveTheDate {
         max-width: 150px;
     }

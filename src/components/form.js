@@ -35,7 +35,8 @@ export function Form() {
     }
     function handleSubmit(e) {
         e.preventDefault()
-        const data = [username, checked, checked2, alerg]
+        const data = `${username},    ${checked},     ${checked2},     ${alerg} `
+        // const data = [username, checked, checked2, alerg]
         telegram({ data })
     }
     function handleClick() {

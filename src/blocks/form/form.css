@@ -60,6 +60,11 @@
     border-radius: 25px;
 }
 
+.input_name:last-of-type {
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
 ul {
     display: flex;
     flex-direction: column;
@@ -173,5 +178,7 @@ li {
 }
 
 .description_form_in_l2 {
+    max-width: 70%;
     font-family: 'Montserrat-Regular';
+    font-size: 2.5vmin;
 }
