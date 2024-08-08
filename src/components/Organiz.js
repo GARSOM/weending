@@ -13,7 +13,7 @@ function Organiz() {
                 </p>
             </div>
             <div className='descripstion_pozelanya_div'>
-                <a className='descripstion_pozelanya_button' href="https://yandex.ru/maps/-/CDW44Z7W" target="_blank">Написать организатору
+                <a className='descripstion_pozelanya_button' href="https://t.me/zhgunova_event" target="_blank">Написать организатору
                 </a>
 
             </div>

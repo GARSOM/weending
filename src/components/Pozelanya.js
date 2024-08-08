@@ -19,21 +19,11 @@ function Pozelanya() {
                     каждую неделю нас будут радовать
                     свежие букеты с доставкой на дом
                     от Вашего имени</p>
-                {/* <p className='description'> Предлагаем перейти по ссылке в цветочный магазин
-                    - написать:
-                    «заказ букета для свадьбы -<span className='number'>11.10.24</span> Николай, Анастасия»
-                    <p className='description'>Ваше Имя Фамилия</p>
-                    <p className='description'>Сумма, которую вы планировали потратить на букет</p>
-                    <p className='description'>Контакты:</p>
-                    Цветочный салон German Garden Краснодар, ул, Красная,  <span className='number'>85</span>
-                    <p className='number'>+7 (909) 443-15-42</p>
-
-                </p> */}
             </div>
 
         </div>
         <div className='descripstion_pozelanya_div'>
-            <a className='descripstion_pozelanya_button' href="https://yandex.ru/maps/-/CDW44Z7W" target="_blank">Оформить цветочную подписку
+            <a className='descripstion_pozelanya_button' href="https://yandex.ru/maps/-/CDc0eS1H" target="_blank">Оформить цветочную подписку
             </a>
         </div>
 

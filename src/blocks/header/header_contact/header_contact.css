@@ -17,3 +17,11 @@
 .title_footer {
     font-size: 16px;
 }
+
+.header_contact:hover {
+    opacity: 0.5;
+}
+
+.logo_telegram {
+    max-width: 25px;
+}

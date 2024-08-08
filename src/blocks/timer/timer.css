@@ -4,6 +4,7 @@
   flex-direction: column;
   margin-top: 5%;
   align-items: center;
+
 }
 
 .countdown {
@@ -20,7 +21,7 @@
 
 .countdown-item span {
   display: block;
-  font-size: 2em;
+  font-size: 4.5vmin;
 }
 
 .label {
@@ -28,7 +29,8 @@
   color: #999;
 }
 
-.number_timer{
+.number_timer {
   font-family: 'Montserrat-Regular';
-  margin-bottom: 15%;
 }
+
+
