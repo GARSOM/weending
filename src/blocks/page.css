@@ -1,0 +1,53 @@
+.page {
+    margin: 0;
+    margin-bottom: 2%;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin-top: 10%;
+    font-family: 'CaviarDreams';
+    font-size: 3vmin;
+}
+
+.title_block {
+    margin-top: 30px;
+    overflow: hidden;
+    font-family: 'GoodVibesPro';
+    font-size: 42px;
+}
+
+.title--center {
+    text-align: center;
+}
+
+.title_block:before,
+.title_block:after {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 580px;
+    height: 1.5px;
+    background: #F5AE9B;
+    border: solid #FFF;
+    border-width: 0 10px;
+}
+
+.title_block:before {
+    margin-left: -100%;
+}
+
+.title_block:after {
+    margin-right: -100%;
+}
+
+.after {
+    max-width: 70%;
+    margin: auto;
+    margin-top: 10%;
+}

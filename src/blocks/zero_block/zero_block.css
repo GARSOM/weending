@@ -1,0 +1,70 @@
+.zero_block {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 1000px;
+    border-radius: 10%;
+    margin: auto;
+    margin-top: 20px;
+    background-size: cover;
+    background-image: url(../../vendor/crisp-white-sheets-invite-rest-soft-folds-creating-serene-atmosphere.jpg);
+    max-width: 90%;
+}
+
+.name {
+    margin: 20% 0 20% 0;
+}
+
+.title {
+    font-family: 'GoodVibesPro';
+    font-size: 10vmin;
+}
+
+.description {
+    margin: 0;
+    font-size: 5vmin;
+}
+
+.date {
+    font-family: 'Montserrat-Regular';
+    padding-bottom: 50px;
+}
+
+
+.number {
+    font-size: 10vmin;
+    text-align: center;
+    margin: 0;
+
+}
+
+.svg_saveTheDate_div {
+    position: absolute;
+}
+
+.svg_saveTheDate {
+    max-width: 150px;
+
+}
+
+.description_under_div {
+    width: 90%;
+    margin: 80px auto 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.description_under {
+    margin: 0;
+    font-family: 'GoodVibesPro';
+    text-align: center;
+    font-size: 28px;
+}
+
+.description_now {
+    font-family: 'Pushkin';
+    font-size: 32px;
+    color: #998675;
+}

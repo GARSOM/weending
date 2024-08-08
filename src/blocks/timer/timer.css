@@ -1,28 +1,34 @@
 .timer {
-    display: flex;
-    gap: 30px;
-    flex-direction: column;
-    margin-top: 5%;
-    opacity: 0;
-    animation: ani 3.5s forwards;
-    align-items: center;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  margin-top: 5%;
+  align-items: center;
 }
+
 .countdown {
-    display: flex;
-    justify-content: center;
-  }
-   
-  .countdown-item {
-    margin: 0 20px;
-    text-align: center;
-  }
-   
-  .countdown-item span {
-    display: block;
-    font-size: 2em;
-  }
-   
-  .label {
-    font-size: 0.8em;
-    color: #999;
-  }
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  margin-top: 7%;
+}
+
+.countdown-item {
+  margin: 0 10px;
+  text-align: center;
+}
+
+.countdown-item span {
+  display: block;
+  font-size: 2em;
+}
+
+.label {
+  font-size: 0.8em;
+  color: #999;
+}
+
+.number_timer{
+  font-family: 'Montserrat-Regular';
+  margin-bottom: 15%;
+}

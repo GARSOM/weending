@@ -1,0 +1,25 @@
+.header {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: white;
+
+}
+
+.header_svg-div {
+  display: flex;
+  align-items: center;
+}
+
+.dode {
+  animation: blinker 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

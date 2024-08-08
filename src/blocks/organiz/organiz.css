@@ -1,0 +1,36 @@
+.organiz_main {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 80%;
+}
+
+.description_H_organiz {
+    font-family: 'GoodVibesPro';
+    font-size: 22px;
+}
+
+.organiz_divw {
+    max-width: 80%;
+    margin: auto;
+}
+
+.organiz_p {
+    font-size: 9px;
+    color: #998675;
+    font-family: 'CaviarDreams';
+}
+
+.organiz_div {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    font-family: 'Montserrat-Regular';
+    padding: 3%;
+}
+
+.logo {
+    margin: auto;
+    max-width: 50%;
+}

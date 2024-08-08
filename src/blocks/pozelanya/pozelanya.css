@@ -1,0 +1,88 @@
+.pozelanya_main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pozelanya {
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow: hidden;
+    gap: 20px;
+
+}
+
+.img2 {
+    max-width: 208px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.pozelanya_img2_div {
+    display: flex;
+    justify-content: center;
+}
+
+.pozelanya_description_div {
+    text-align: start;
+    font-family: 'GoodVibesPro';
+    font-size: 17px;
+    padding-right: 5%;
+}
+
+.descripstion_pozelanya {
+    font-size: 17px;
+    margin: 0;
+}
+
+.descripstion_pozelanya:last-of-type {
+    margin-top: 5%;
+}
+
+.descripstion_pozelanya_div {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+.descripstion_pozelanya_button {
+    all: unset;
+    padding: 3%;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 25px 25px 25px 25px;
+    font-size: 14px;
+    font-family: 'Montserrat-Regular';
+}
+
+.pozelanya_flowers_div {
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    font-family: 'Montserrat-Regular';
+    padding: 5%;
+}
+
+.pozelanya_flowers_p {
+    font-size: 11px;
+    text-align: center;
+    color: #998675;
+    font-family: 'CaviarDreams';
+}
+
+.pozelanya_flowers_p:nth-of-type(2) {
+    margin-bottom: 10%;
+}
+
+.pozelanya_flowers_p:nth-of-type(7) {
+    margin-top: 10%;
+}
+
+.black {
+    color: black;
+}

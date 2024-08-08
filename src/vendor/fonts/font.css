@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'AlayaRozaDemo';
     font-style: normal;
     font-weight: 500;
@@ -10,7 +10,46 @@
     font-family: 'saveTheDate';
     src: url(SavetheDate-ScriptBold.woff) format("woff2");
 }
+
 @font-face {
     font-family: 'larisa';
     src: url(Larisa_script.ttf) format("woff2");
+} */
+
+
+
+@font-face {
+    font-family: 'CaviarDreams';
+    src: url(CaviarDreams.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'CaviarDreamsBold';
+    src: url(CaviarDreams_Bold.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'AngstThin';
+    src: url(AngstVF.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(Montserrat-Regular.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'GoodVibesPro';
+    font-style: bold;
+    src: url(GoodVibesPro.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'Pushkin';
+    src: url(PushkinC.ttf) format("woff2");
+}
+
+@font-face {
+    font-family: 'CaviarDreams_Italic';
+    src: url(CaviarDreams_Italic.ttf) format("woff2");
 }
