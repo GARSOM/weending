@@ -48,9 +48,9 @@
 .heart {
     background-repeat: no-repeat;
     position: absolute;
-    margin-left: 212px;
-    margin-top: -20px;
-    width: 70px;
+    margin-left: 222px;
+    margin-top: -10px;
+    width: 50px;
     animation: zoom-in-zoom-out 2s ease-out infinite;
     color: #F5AE9B;
 }

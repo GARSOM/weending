@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 const botToken = '7204890579:AAEX8O1MNWxHwKLYpMszyZjpyisLKFByBPo'
-const chat_id = '-4266085902'
+const chat_id = '-1002232685826'
 export function Form() {
     const handleResponse = (res) => {
         if (res.ok) {
