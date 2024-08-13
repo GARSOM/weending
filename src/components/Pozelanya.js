@@ -23,7 +23,7 @@ function Pozelanya() {
 
         </div>
         <div className='descripstion_pozelanya_div'>
-            <a className='descripstion_pozelanya_button' href="https://yandex.ru/maps/-/CDc0eS1H" target="_blank">Оформить цветочную подписку
+            <a className='descripstion_pozelanya_button' href="https://api.whatsapp.com/send?phone=79094431542" target="_blank">Оформить цветочную подписку
             </a>
         </div>
 
